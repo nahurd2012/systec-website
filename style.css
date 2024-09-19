@@ -4028,9 +4028,9 @@ body{
 .our-mission-image-1 {
   width: 100%;
   height: 100%;
-  background-image: url(img/gallery/turbine_after.jpg);
+  background-image: url(img/methodist1.jpg);
   background-position: center center;
-  background-size: cover;
+  background-size: 70%;
   background-repeat: no-repeat;
 }
 .our-mission-image-2 {
